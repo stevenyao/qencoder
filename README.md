@@ -1,4 +1,5 @@
 # qencoder
-Qt Media Encoder GUI
-Support X265 ffmpeg
+*Qt Media Encoder GUI
+
+*Support X265 ffmpeg
 
